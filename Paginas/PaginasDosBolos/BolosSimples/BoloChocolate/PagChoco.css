@@ -10,10 +10,11 @@ div {
     background: white;
     border-radius: 10px;
     padding: 15px;
-    width: 900px;
     margin: auto;
     box-shadow: 5px 5px 10px #592816;
     text-align: center;
+    min-width: 320px;
+    max-width: 900px;
 }
 footer {
     color: #734103;
